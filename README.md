@@ -51,16 +51,6 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-
-- 📈 **[Análise de Vendas](#)** → Insights de negócios com **Python, Pandas e Seaborn**  
-- 🤖 **[Previsão de Churn](#)** → Modelos de classificação com **scikit-learn**  
-- 🗺️ **[Clusterização de Clientes](#)** → Segmentação com **K-means + visualizações**  
-- 📊 **[Dashboard Financeiro](#)** → Criado com **Power BI e Excel**  
-- 🔥 **[Pipeline Big Data](#)** → Processamento em larga escala com **Databricks**  
-
----
-
 ## 📚 O que estou aprendendo agora
 - 🔹 Machine Learning Avançado (**XGBoost, Random Forest, LightGBM**)  
 - 🔹 Deep Learning (**TensorFlow & Keras**)  
@@ -78,14 +68,6 @@
   <a href="mailto:lucast.leopoldino.rodrigues@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 🐍 Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dev-lucasteixeira/dev-lucasteixeira/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
